@@ -3,42 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/356fa88d57d81e048308b5642e9674b1f8d1df86/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a68aefcad525fa24813277537a1bed6c9590810d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/7771c329693b2229acfdba132b9e3a639a3854ac/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0dd966c7bbefdc0c155ca0f234e9eb91cc4e397/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0a374a7ba49e0a9432aa7b3f083e13160e140601/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/4d1aa8069fd3abb62586166b4e0b813a604318dd/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9e9f0037b5bac794e6a0dd2e694e835d35215b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Marc/Documents/Filter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -48,84 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/53548bd1adc2ab77fbaf6fb00275340b7df97f88/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70011fb2dca7b0bbc5d194363f6fda68254fb980/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/ee8920eaf94def8f3845fab8adf04a590d9a62c0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_225c0ca6200d70efb6f4843c7fb02a0ba00a0541/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/2bff205f78b3c9edc668807ffaccede224007d5a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46ccb0660954ca91b37652969035aec48846be64/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_a28007338ca06ed73b4021d9a4030440a1d28dbf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/f346b1b33ab6687f9bd6431addb6b87855da2b70/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_962274bf21a38fbf2870cdbe256b83f37bcf10f0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/0ba610094d0074c50eedbd48a0043c29e6969ed0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08f217171e90472ec98de037b8c88c6c91e8294f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Marc/Documents/Filter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="658ed9b13062d301f64034109ea80e6c4808958c">
+        sha1="d378a4a503210b567aafc2d8b4bfebb5cddb9881">
         <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9609e17e2ed2544400227ff02716cdd694e0e6d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/1e2716856b17c3c1652f0e2fd0a8ce709fe43907/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3314074e02583709d743493ca00b6aab96f64ad/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Marc/.android/build-cache/8583c24843cef82c0a109b259dbd143934fec28e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e94765c001db00cf9cd891f8a1c69906a1ad82a0/classes.dex" />
     </item>
 
 </items>
