@@ -52,6 +52,9 @@ public class MainActivity extends AppCompatActivity {
                     alertDialog.show();
                 } else {
                     result = result.toLowerCase();
+
+                    Intent graphView = new Intent(MainActivity.this, GraphActivity.class);
+                    startActivity(graphView);
                 }
             }
         });

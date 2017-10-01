@@ -1,8 +1,12 @@
 package com.android.filter;
 
 import android.graphics.Color;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import android.support.design.widget.BottomNavigationView;
+import android.view.MenuItem;
 
 import com.jjoe64.graphview.GraphView;
 import com.jjoe64.graphview.ValueDependentColor;
@@ -15,7 +19,8 @@ public class GraphActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_graph);
-        GraphView graph = (GraphView) findViewById(R.id.graph);
+
+        final GraphView graph = (GraphView) findViewById(R.id.graph);
         BarGraphSeries<DataPoint> series = new BarGraphSeries<>(new DataPoint[] {
                 //new DataPoint(x,y) parameters for where we want to show the graph
                 new DataPoint(0, -1),
@@ -55,5 +60,28 @@ public class GraphActivity extends AppCompatActivity {
         series.setDrawValuesOnTop(true);
         series.setValuesOnTopColor(Color.RED);
         //series.setValuesOnTopSize(50);`
+
+        BottomNavigationView bottomNavigationView = (BottomNavigationView)
+                findViewById(R.id.bottom_navigation);
+
+        bottomNavigationView.setOnNavigationItemSelectedListener(
+            new BottomNavigationView.OnNavigationItemSelectedListener() {
+
+                @Override
+                public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                    switch (item.getItemId()) {
+                        case R.id.action_graph:
+                            break;
+                        case R.id.action_map:
+                            // switch to map view
+                            break;
+                        case R.id.action_tweet:
+                            // switch to tweet view
+                            break;
+                    }
+                    return false;
+                }
+            }
+        );
     }
 }

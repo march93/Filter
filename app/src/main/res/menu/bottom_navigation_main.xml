@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_graph"
+        android:enabled="true"
+        android:icon="@mipmap/graph_menu"
+        android:title="@string/graph_menu"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_map"
+        android:enabled="true"
+        android:icon="@mipmap/map_menu"
+        android:title="@string/map_menu"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_tweet"
+        android:enabled="true"
+        android:icon="@mipmap/tweet_menu"
+        android:title="@string/tweet_menu"
+        app:showAsAction="ifRoom" />
+</menu>

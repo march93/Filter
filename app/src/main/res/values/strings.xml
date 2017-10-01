@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">Filter</string>
 
+    <string name="graph_menu">Graph</string>
+
+    <string name="map_menu">Map</string>
+
+    <string name="tweet_menu">Tweets</string>
+
     <!-- Header that goes above the title of the earthquake event [CHAR LIMIT=50] -->
     <string name="header_event">Event</string>
 
