@@ -3,97 +3,16 @@
 
     <item
         is-multidex="true"
-        jar="/Users/cblim/.android/build-cache/6a5de0899bbeceb7579e2d5be49a9a85d1a0f807/output/jars/classes.jar"
+        jar="/Users/Marc/Documents/Filter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91ee08fb0104a6d9fa2c9b6fef026e6e3436e123/classes.dex" />
+        sha1="1a1d13cc431746c0cda40db210d718dc3a967a9b">
+        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9609e17e2ed2544400227ff02716cdd694e0e6d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/cblim/.android/build-cache/87f2ba330a551fd545aea2803f106e08b003052c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99f381af40c91308afc8bc7dd861d9c03d6f4c79/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/cblim/.android/build-cache/3d7886fdc8213eebf8cd7bddb6680c7f49f481eb/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_769bd6d437ed51365261d70802ed29a8828532b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/cblim/.android/build-cache/8c6c38e71b2d1d3616a79fbd9e95e9ac0bddef90/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61a499e458e3ff4ade7d0861666e9c6275d19a66/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="78052e683765eeb5899e3388e7fc144d56668e08">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7f62161a09a4b4fac6177dcf81ba290783f0c41/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/cblim/.android/build-cache/52c6277890dfc63146a726233ddcc1bcf634aee8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_899a65281d230354ccadd0764d9b3d4efb751009/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/cblim/.android/build-cache/afea21fe49dbe690139dda065d29f480e73e259c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_baa38ee602eaccc60c6298813b60743a60723c62/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/cblim/.android/build-cache/e3e29a9a683b4531a470a048525e3d366b284608/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1ecf689e86abf102916c380b82de42298d78d6c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/cblim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_4ebc5b5dec8c1cafb7480d4594c47a50800d173e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/cblim/.android/build-cache/e23163a65f846291d2440221cd3e28fcad9afcb6/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86b2e0742a00e94944469f327a91f07ec4c765f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/Marc/Documents/Filter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
@@ -120,12 +39,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/cblim/.android/build-cache/844a896e0bf21c0cd6086b0cda5d46f521945847/output/jars/classes.jar"
+        jar="/Users/Marc/.android/build-cache/9c0402d111fa309ce6ef068be5b75305621579da/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2a048fd71d0cf5055bc4f2d4316a8ee2374c626/classes.dex" />
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2edc66d3948de0ab855dcdceb0ae593459eebb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Marc/.android/build-cache/4c99b013186523c3e80590838b64e6fa755899f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a70fa4f6b91520b802e7fba389ba1b6068be9ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Marc/.android/build-cache/c21ee8cce66ed36d17989dde8b94b74cdbf3ce06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d22734a93126dc6b5c4162d892e795d15ff0c3aa/classes.dex" />
     </item>
 
 </items>
