@@ -3,6 +3,7 @@
 
     <item
         is-multidex="true"
+<<<<<<< HEAD
         jar="C:\Users\Daniel\.android\build-cache\7b3937913b3394431fdf6c6f68082b7c3eb46098\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -121,10 +122,23 @@
     <item
         is-multidex="true"
         jar="C:\Users\Daniel\Documents\GitHub\Filter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+=======
+        jar="/Users/Marc/Documents/Filter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a1d13cc431746c0cda40db210d718dc3a967a9b">
+        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9609e17e2ed2544400227ff02716cdd694e0e6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Marc/Documents/Filter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+>>>>>>> development
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+<<<<<<< HEAD
         <dex dex="C:\Users\Daniel\Documents\GitHub\Filter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8ea029aa6ccd5865a6e5890e69c6aef08601cf7d\classes.dex" />
     </item>
     <item
@@ -144,6 +158,54 @@
         revision="25.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="C:\Users\Daniel\Documents\GitHub\Filter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d362bff76a83a66074db8232da800f051486c76\classes.dex" />
+=======
+        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d7beab97185dc89514ecf8c7d8ca1d996e73b16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cblim/.android/build-cache/e1d8591c7bbfe27dd021622f04f0cd6b1ab7a317/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db67d4a327b3774b9b44f3fbaca7f7f065668f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cblim/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/cblim/Documents/Git/GitHub/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_cce1ab324f43264da19047b5ef066aa6710fbed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Marc/.android/build-cache/9c0402d111fa309ce6ef068be5b75305621579da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2edc66d3948de0ab855dcdceb0ae593459eebb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Marc/.android/build-cache/4c99b013186523c3e80590838b64e6fa755899f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a70fa4f6b91520b802e7fba389ba1b6068be9ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Marc/.android/build-cache/c21ee8cce66ed36d17989dde8b94b74cdbf3ce06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/Marc/Documents/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d22734a93126dc6b5c4162d892e795d15ff0c3aa/classes.dex" />
+>>>>>>> development
     </item>
 
 </items>
