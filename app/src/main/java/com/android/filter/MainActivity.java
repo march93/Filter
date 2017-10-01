@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
         });
         graph.addSeries(series);
 
-// styling
+        /*Drawing bar graph, implement with Gabe's network code*/
+        // styling
         series.setValueDependentColor(new ValueDependentColor<DataPoint>() {
             @Override
             public int get(DataPoint data) {
@@ -41,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
         series.setSpacing(50);
 
-// draw values on top
+        // draw values on top
         series.setDrawValuesOnTop(true);
         series.setValuesOnTopColor(Color.RED);
         //series.setValuesOnTopSize(50);`
