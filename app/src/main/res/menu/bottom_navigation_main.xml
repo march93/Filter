@@ -4,19 +4,19 @@
     <item
         android:id="@+id/action_graph"
         android:enabled="true"
-        android:icon="@mipmap/graph_menu"
+        android:icon="@drawable/ic_graph_menu_24dp"
         android:title="@string/graph_menu"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_map"
         android:enabled="true"
-        android:icon="@mipmap/map_menu"
+        android:icon="@drawable/ic_map_menu_24dp"
         android:title="@string/map_menu"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_tweet"
         android:enabled="true"
-        android:icon="@mipmap/tweet_menu"
+        android:icon="@drawable/ic_tweet_menu_24dp"
         android:title="@string/tweet_menu"
         app:showAsAction="ifRoom" />
 </menu>

@@ -24,9 +24,9 @@
         <activity
             android:name=".TsunamiActivity"
             android:parentActivityName=".MainActivity" />
-
         <activity android:name=".GraphActivity"></activity>
         <activity android:name=".UniversityActivity"></activity>
+        <activity android:name=".MapActivity"></activity>
 
     </application>
 

@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import android.support.design.widget.BottomNavigationView;
+import android.util.Log;
 import android.view.MenuItem;
 
 import com.jjoe64.graphview.GraphView;
@@ -61,8 +62,7 @@ public class GraphActivity extends AppCompatActivity {
         series.setValuesOnTopColor(Color.RED);
         //series.setValuesOnTopSize(50);`
 
-        BottomNavigationView bottomNavigationView = (BottomNavigationView)
-                findViewById(R.id.bottom_navigation);
+        BottomNavigationView bottomNavigationView = (BottomNavigationView) findViewById(R.id.bottom_navigation);
 
         bottomNavigationView.setOnNavigationItemSelectedListener(
             new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -71,12 +71,15 @@ public class GraphActivity extends AppCompatActivity {
                 public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                     switch (item.getItemId()) {
                         case R.id.action_graph:
+                            Log.i("Graph Activity", "GRAPH");
                             break;
                         case R.id.action_map:
                             // switch to map view
+                            Log.i("Graph Activity", "MAP");
                             break;
                         case R.id.action_tweet:
                             // switch to tweet view
+                            Log.i("Graph Activity", "TWEET");
                             break;
                     }
                     return false;
